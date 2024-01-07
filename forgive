@@ -1,5 +1,5 @@
 for test8
-alailai0
+alailai00
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
 sudo apt-get update
